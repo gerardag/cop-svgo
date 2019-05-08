@@ -28,7 +28,7 @@ After the installation process and setting up the environment, you need to copy 
 $ cp svg-originals svg
 ```
 
-## First activity
+## Main activity
 
 The first activity will be optimize all `.svg` files from a folder. In this case, we use the `svg` folder files. For that purpose, you need to run just the following command:
 
@@ -38,3 +38,10 @@ $ svgo svg/
 
 When executed, this automatically removes all unnecessary code for `.svg` files and will be printed into terminal with the optimization made for every single file.
 
+## Next steps
+
+After the first contact with the svg library, you can play with all the rest of the options that library provides to you:
+
+- Optimize just one file
+- Optimize all the files from a diferents directory using regexp: `svgo *.svg`
+- Optimize and copy all the new files into diferent directory: `svgo -f svg-originals\ -o svg-optimized`
