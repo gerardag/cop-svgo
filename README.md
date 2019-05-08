@@ -1,4 +1,4 @@
-# SVGO CLI Lab
+# SVGO Lab
 
 The goal of this lab is getting familiar with SVG optimization tool. It's a really simple, effective library and super easy to use.
 
@@ -45,3 +45,9 @@ After the first contact with the svg library, you can play with all the rest of 
 - Optimize just one file
 - Optimize all the files from a diferents directory using regexp: `svgo *.svg`
 - Optimize and copy all the new files into diferent directory: `svgo -f svg-originals\ -o svg-optimized`
+
+## Extra bonus
+
+Also, you can use a web version of this plugin. You just need to upload `.svg` file or paste the markup and download the optimized result.
+
+https://jakearchibald.github.io/svgomg/
