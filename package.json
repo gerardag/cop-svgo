@@ -1,7 +1,7 @@
 {
   "name": "svgo",
   "version": "1.0.0",
-  "description": "Hands-on exercise for starting using svgo-cli for minifying .svg files",
+  "description": "Hands-on exercise for starting using svgo-cli for optimizing .svg files",
   "main": "index.js",
   "scripts": {
     "start": "npm i -g svgo"
