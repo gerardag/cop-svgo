@@ -1,7 +1,5 @@
 # SVGO Lab
 
-![SVG logo](https://cdn-images-1.medium.com/max/800/0*PFeo13wnAp318LKY.png)
-
 The goal of this lab is getting familiar with SVG optimization tool. It's a really simple, effective library and super easy to use.
 
 ## Installing
